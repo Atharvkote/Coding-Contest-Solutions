@@ -1,4 +1,3 @@
-It looks like you're asking for the **Lowest Common Ancestor (LCA)** in a **Binary Search Tree (BST)** given two node values. Based on your description, the function should return a pointer (or reference) to the LCA node.
 
 ## **Approach**
 1. **BST Property**:  
